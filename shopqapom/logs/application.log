@@ -1,0 +1,20 @@
+[INFO ] 2020-04-21 17:45:08.287 TestBase:16 - Dismiss messaged clicked
+[INFO ] 2020-04-21 17:45:10.509 TestBase:18 - Navigated to My Account Page
+[INFO ] 2020-04-21 17:45:10.711 TestBase:20 - Login email entered
+[INFO ] 2020-04-21 17:45:10.903 TestBase:22 - Login password entered
+[INFO ] 2020-04-21 17:45:13.341 TestBase:27 - Successfully logged in
+[INFO ] 2020-04-21 17:48:07.169 TestBase:16 - Dismiss messaged clicked
+[INFO ] 2020-04-21 17:48:09.491 TestBase:18 - Navigated to My Account Page
+[INFO ] 2020-04-21 17:48:09.690 TestBase:20 - Login email entered
+[INFO ] 2020-04-21 17:48:09.884 TestBase:22 - Login password entered
+[INFO ] 2020-04-21 17:48:12.386 TestBase:27 - Successfully logged in
+[INFO ] 2020-04-21 17:50:16.998 TestBase:16 - Dismiss messaged clicked
+[INFO ] 2020-04-21 17:50:19.258 TestBase:18 - Navigated to My Account Page
+[INFO ] 2020-04-21 17:50:19.480 TestBase:20 - Login email entered
+[INFO ] 2020-04-21 17:50:19.668 TestBase:22 - Login password entered
+[INFO ] 2020-04-21 17:50:23.543 TestBase:27 - Successfully logged in
+[INFO ] 2020-04-21 17:58:45.924 TestBase:16 - Dismiss messaged clicked
+[INFO ] 2020-04-21 17:58:48.246 TestBase:18 - Navigated to My Account Page
+[INFO ] 2020-04-21 17:58:48.434 TestBase:20 - Login email entered
+[INFO ] 2020-04-21 17:58:48.632 TestBase:22 - Login password entered
+[INFO ] 2020-04-21 17:58:52.173 TestBase:27 - Successfully logged in

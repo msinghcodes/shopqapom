@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.msc.shopqapom.utilities.Reporting" />
+	</listeners>
+	<test name="Shopqapom Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.msc.shopqapom.testcases.TC001_Login" />
+			<class name="com.msc.shopqapom.testcases.TC003_AddBillingAddress" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

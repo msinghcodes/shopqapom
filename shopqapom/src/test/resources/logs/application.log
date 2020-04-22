@@ -1,0 +1,21 @@
+[INFO ] 2020-04-22 13:35:47.222 TestBase:20 - Dismiss hero message clicked
+[INFO ] 2020-04-22 13:35:49.270 TestBase:23 - Navigated to My Account page
+[INFO ] 2020-04-22 13:35:49.552 TestBase:25 - Login username entered
+[INFO ] 2020-04-22 13:35:49.736 TestBase:27 - Login password entered
+[INFO ] 2020-04-22 13:35:52.337 TestBase:29 - Login button clicked
+[INFO ] 2020-04-22 13:35:52.453 TestBase:33 - Login test is passed
+[INFO ] 2020-04-22 13:35:55.243 TestBase:35 - User has been logged out
+[INFO ] 2020-04-22 13:35:56.751 TestBase:23 - Navigated to My Account page
+[INFO ] 2020-04-22 13:35:57.087 TestBase:25 - Login username entered
+[INFO ] 2020-04-22 13:35:57.349 TestBase:27 - Login password entered
+[INFO ] 2020-04-22 13:35:59.019 TestBase:29 - Login button clicked
+[INFO ] 2020-04-22 13:36:00.635 TestBase:23 - Navigated to My Account page
+[INFO ] 2020-04-22 13:36:00.916 TestBase:25 - Login username entered
+[INFO ] 2020-04-22 13:36:01.049 TestBase:27 - Login password entered
+[INFO ] 2020-04-22 13:36:02.589 TestBase:29 - Login button clicked
+[INFO ] 2020-04-22 13:36:04.483 TestBase:23 - Navigated to My Account page
+[INFO ] 2020-04-22 13:36:04.768 TestBase:25 - Login username entered
+[INFO ] 2020-04-22 13:36:04.961 TestBase:27 - Login password entered
+[INFO ] 2020-04-22 13:36:07.271 TestBase:29 - Login button clicked
+[INFO ] 2020-04-22 13:36:07.368 TestBase:33 - Login test is passed
+[INFO ] 2020-04-22 13:36:10.040 TestBase:35 - User has been logged out
